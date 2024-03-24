@@ -14,14 +14,14 @@ const handler = async (m, {conn, usedPrefix, command}) => {
 *┃ 𝙿𝙾𝚁 𝚂𝙸 𝙶𝚄𝚂𝚃𝙰𝚂 𝙰𝙿𝙾𝚈𝙰𝚁 :𝟹*
 *┃*
 *┃ ➤ TARJETA:* 
-*┃ 4152 3141 5599 9181   *
-*┃ ➤ 𝙱𝙰𝙽𝙲𝙾: BBVA* 
-*┃ ➤ 𝙱𝙴𝙽𝙴𝙵𝙸𝙲𝙸𝙰𝚁𝙸𝙾: Monovan * 
+*┃ 1271 8001 6131 4070 42*
+*┃ ➤ 𝙱𝙰𝙽𝙲𝙾: Banco Azteca🎀* 
+*┃ ➤ 𝙱𝙴𝙽𝙴𝙵𝙸𝙲𝙸𝙰𝚁𝙸𝙾: Dafne Anahí Aguilar Rodríguez * 
 *┃ ➤ 𝙲𝙾𝙽𝙲𝙴𝙿𝚃𝙾: APOYO*  
 *┃*
 *┃ 👉🏻 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙰𝙼𝙴 𝚂𝙸 𝙽𝙴𝙲𝙴𝚂𝙸𝚃𝙰𝚂*
 *┃ 𝙼𝙰𝚂 𝙳𝙰𝚃𝙾𝚂 𝚈 𝙿𝙰𝚁𝙰 𝙰𝙶𝚁𝙰𝙳𝙴𝙲𝙴𝚁𝚃𝙴*
-*┃ wa.me/527299350963*
+*┃ wa.me/525610035034*
 *┗ ┅ ━━━━━━━━━━━━━━━━━ ┅ ━*
 `.trim();
   const aa = {quoted: m, userJid: conn.user.jid};
